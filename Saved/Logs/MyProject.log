@@ -6124,3 +6124,11 @@ Script Stack (0 frames):
 [2023.07.07-09.55.08:401][851]LogSavePackage: Moving '../../../../../../Users/ilyav/Projects/Unreal Engine/MyProject/Saved/SE8HHFSAUWBXSELXY7C5N5C021B97747C6B0B0C7D318AB1C20306A.tmp' to '../../../../../../Users/ilyav/Projects/Unreal Engine/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PM/SE8HHFSAUWBXSELXY7C5N5.uasset'
 [2023.07.07-09.55.08:685][851]AssetCheck: New page: Asset Save: BP_HSoldier_C_UAID_D45D64600E894D9301_1477482943
 [2023.07.07-09.55.08:685][851]LogContentValidation: Display: Validating BP_HSoldier_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_HSoldier_C_UAID_D45D64600E894D9301_1477482943
+[2023.07.07-09.57.03:189][296]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.07.07-09.57.03:189][296]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.07.07-09.57.11:950][693]LogUObjectHash: Compacting FUObjectHashTables data took  12.11ms
+[2023.07.07-09.57.12:974][693]LogSlate: Window 'Save Content' being destroyed
+[2023.07.07-09.57.13:131][693]LogSavePackage: Moving output files for package: /Game/Characters/Enemies/Soldier/Animations/HSoldier_Walking
+[2023.07.07-09.57.13:132][693]LogSavePackage: Moving '../../../../../../Users/ilyav/Projects/Unreal Engine/MyProject/Saved/HSoldier_Walking227D31964651A53153AC92AB0850C370.tmp' to '../../../../../../Users/ilyav/Projects/Unreal Engine/MyProject/Content/Characters/Enemies/Soldier/Animations/HSoldier_Walking.uasset'
+[2023.07.07-09.57.13:161][693]AssetCheck: New page: Asset Save: HSoldier_Walking
+[2023.07.07-09.57.13:161][693]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Enemies/Soldier/Animations/HSoldier_Walking.HSoldier_Walking
